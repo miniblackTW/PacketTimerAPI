@@ -1,0 +1,4 @@
+name: PacketTimerAPI
+version: '1.0.0'
+main: me.miniblacktw.packettimer.PacketTimerAPI
+depend: [ProtocolLib]

@@ -1,0 +1,6 @@
+name: PacketTimerExample
+version: '1.0.7'
+api-version: 1.8
+main: me.miniblacktw.example.Main
+description: shows the usage of PacketTimerAPI
+depend: [PacketTimerAPI]
