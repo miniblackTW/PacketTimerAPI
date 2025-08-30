@@ -52,6 +52,7 @@ public class SingleTargetExample extends JavaPlugin implements Listener {
 
 ### per-player example
 ```java
+// timer pauses when player doesn't move
 public class PerPlayerExample extends JavaPlugin implements Listener {
 
     private Map<Player, PacketTimer> timers = new HashMap<>();
